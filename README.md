@@ -1,2 +1,2 @@
 # Calculator-App
-Aplikasi kalkulator dengan bahasa C#
+Latihan membuat aplikasi kalkulator dengan bahasa C# pada matkul pemrograman S1 Universitas Amikom Yogyakarta
