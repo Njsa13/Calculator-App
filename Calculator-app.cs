@@ -14,11 +14,13 @@ namespace Latihan1
 
             //int a = 10;
             //int b = 6 ;
-            Console.WriteLine("Pilih menu calculator : ");
-            Console.WriteLine("1. Pertambahan");
-            Console.WriteLine("2. Pengurangan");
-            Console.WriteLine("3. Perkalian");
-            Console.WriteLine("4. Pembagian");
+            Console.WriteLine("+--------------------------------+");
+            Console.WriteLine("|    Pilih menu calculator :     |");
+            Console.WriteLine("|    1. Pertambahan              |");
+            Console.WriteLine("|    2. Pengurangan              |");
+            Console.WriteLine("|    3. Perkalian                |");
+            Console.WriteLine("|    4. Pembagian                |");
+            Console.WriteLine("+--------------------------------+");
 
             Console.WriteLine("\nInput nomor menu [1...4] :");
             int pilih = Convert.ToInt32(Console.ReadLine());
