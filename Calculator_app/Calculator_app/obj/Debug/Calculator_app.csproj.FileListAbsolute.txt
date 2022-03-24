@@ -1,0 +1,7 @@
+D:\Kuliah\S2\Pemrograman\Calculator_app\Calculator_app\obj\Debug\Calculator_app.csprojAssemblyReference.cache
+D:\Kuliah\S2\Pemrograman\Calculator_app\Calculator_app\obj\Debug\Calculator_app.csproj.CoreCompileInputs.cache
+D:\Kuliah\S2\Pemrograman\Calculator_app\Calculator_app\bin\Debug\Calculator_app.exe.config
+D:\Kuliah\S2\Pemrograman\Calculator_app\Calculator_app\bin\Debug\Calculator_app.exe
+D:\Kuliah\S2\Pemrograman\Calculator_app\Calculator_app\bin\Debug\Calculator_app.pdb
+D:\Kuliah\S2\Pemrograman\Calculator_app\Calculator_app\obj\Debug\Calculator_app.exe
+D:\Kuliah\S2\Pemrograman\Calculator_app\Calculator_app\obj\Debug\Calculator_app.pdb
